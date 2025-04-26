@@ -1,0 +1,8 @@
+print("omar".upper()) # make all characters uppercase
+print("omar".isupper()) # Return True if the string is an uppercase string, False otherwise.
+print("OMADar".lower()) # make all characters lowercase
+print("omar".islower()) #Return True if the string is a lowercase string, False otherwise.
+print("omar is good man".title()) # Return a version of the string where each word is titlecased.
+print("omar".startswith("om")) # Return True if the string starts with the specified prefix, False otherwise
+print("omar".endswith("r")) # Return True if the string ends with the specified prefix, False otherwise
+print("omar".replace("om","ALLL")) # replace a value with another passed value
